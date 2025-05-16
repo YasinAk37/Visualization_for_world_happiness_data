@@ -1,3 +1,3 @@
-# Visualization for world happiness data
+# Visualization for World Happiness data
 
 ![](happiness_v1.gif)
